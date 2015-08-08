@@ -1,0 +1,32 @@
+@font-face{
+  font-family: 'Tehran';
+    src: url('../fonts/Tehran.eot');
+    src: url('../fonts/Tehran.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Tehran.woff') format('woff'),
+         url('../fonts/Tehran.ttf') format('truetype');
+}
+
+body {
+    font-family: "Tehran","Helvetica Neue",Helvetica,Arial,sans-serif;
+    direction: rtl;
+    background-color: @gray-lightest;
+}
+
+#wrapper {
+    width: 100%;
+}
+
+#page-wrapper {
+    padding: 0 15px;
+    min-height: 568px;
+    background-color: white;
+}
+
+@media(min-width:768px) {
+    #page-wrapper {
+        position: inherit;
+        margin: 0 250px 0 0;
+        padding: 0 30px;
+        border-right: 1px solid darken(@gray-lightest, 6.5%);
+    }
+}
