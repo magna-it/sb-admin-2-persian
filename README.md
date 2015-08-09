@@ -2,6 +2,18 @@
 
 Forked from [startbootstrap-sb-admin-2](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2) built by David Miller
 
+## Demo
+
+[Demo](http://magnagroup.github.io/sb-admin-2-persian)
+
+## Use
+
+Just add to your bower components.
+
+```
+bower install sb-admin-2-persian
+```
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/magnagroup/sb-admin-2-persian/issues) here on GitHub.
