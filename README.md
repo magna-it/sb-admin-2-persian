@@ -1,5 +1,7 @@
 # SB Admin 2 Persian
 
+**Persian and RTL version of SB Admin 2**
+
 Forked from [startbootstrap-sb-admin-2](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2) built by David Miller
 
 ## Demo
