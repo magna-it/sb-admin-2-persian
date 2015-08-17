@@ -14,12 +14,14 @@ table.dataTable thead .sorting_asc:after {
     content: "\f0de";
     float: right;
     font-family: fontawesome;
+    margin-left: 5px;
 }
 
 table.dataTable thead .sorting_desc:after {
     content: "\f0dd";
     float: right;
     font-family: fontawesome;
+    margin-left: 5px;
 }
 
 table.dataTable thead .sorting:after {
@@ -27,4 +29,9 @@ table.dataTable thead .sorting:after {
     float: right;
     font-family: fontawesome;
     color: rgba(50,50,50,.5);
+    margin-left: 5px;
+}
+
+table.table-bordered th:last-child, table.table-bordered td:last-child {
+    border-right-width: 1px;
 }
