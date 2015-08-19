@@ -6,7 +6,7 @@ Forked from [startbootstrap-sb-admin-2](https://github.com/IronSummitMedia/start
 
 ## Demo
 
-[Demo](http://magnagroup.github.io/sb-admin-2-persian)
+[Demo](http://magna-it.github.io/sb-admin-2-persian)
 
 ## Use
 
